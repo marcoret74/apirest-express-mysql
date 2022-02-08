@@ -4,8 +4,16 @@
   "description": "Simple example of nodejs to create rest call using MySQL",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "marcoret74",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "jshint": "^2.13.4",
+    "mysql": "^2.18.1"
+  }
 }
