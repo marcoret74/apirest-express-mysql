@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-restapi",
+  "version": "1.0.0",
+  "description": "Simple example of nodejs to create rest call using MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcoret74",
+  "license": "ISC"
+}
